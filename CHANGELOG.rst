@@ -2,8 +2,8 @@
 Changelog for package gz_msgs_vendor
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.2.0 (2024-09-30)
+------------------
 * Bump version to 11.0.0 (`#3 <https://github.com/gazebo-release/gz_msgs_vendor/issues/3>`_)
 * Apply prerelease suffix (`#2 <https://github.com/gazebo-release/gz_msgs_vendor/issues/2>`_)
   * Apply prerelease suffix
