@@ -2,8 +2,8 @@
 Changelog for package gz_msgs_vendor
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.2.1 (2024-10-10)
+------------------
 * Merge pull request `#4 <https://github.com/gazebo-release/gz_msgs_vendor/issues/4>`_ from gazebo-release/releasepy/11.0.1
 * Contributors: Jose Luis Rivero
 
