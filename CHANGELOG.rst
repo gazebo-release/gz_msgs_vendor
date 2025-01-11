@@ -2,6 +2,11 @@
 Changelog for package gz_msgs_vendor
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* Bump version to 11.0.2 (`#6 <https://github.com/gazebo-release/gz_msgs_vendor/issues/6>`_)
+* Contributors: Steve Peters
+
 0.2.1 (2024-10-10)
 ------------------
 * Merge pull request `#4 <https://github.com/gazebo-release/gz_msgs_vendor/issues/4>`_ from gazebo-release/releasepy/11.0.1
