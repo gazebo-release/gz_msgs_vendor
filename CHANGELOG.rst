@@ -2,8 +2,8 @@
 Changelog for package gz_msgs_vendor
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.2.2 (2025-01-10)
+------------------
 * Bump version to 11.0.2 (`#6 <https://github.com/gazebo-release/gz_msgs_vendor/issues/6>`_)
 * Contributors: Steve Peters
 
