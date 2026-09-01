@@ -2,6 +2,11 @@
 Changelog for package gz_msgs_vendor
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* Enable Python bindings (`#21 <https://github.com/gazebo-release/gz_msgs_vendor/issues/21>`_)
+* Contributors: Addisu Z. Taddese
+
 0.2.5 (2026-08-13)
 ------------------
 * Bump version to 11.2.0 (`#19 <https://github.com/gazebo-release/gz_msgs_vendor/issues/19>`_)
