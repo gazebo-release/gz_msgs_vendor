@@ -2,8 +2,8 @@
 Changelog for package gz_msgs_vendor
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.0.8 (2026-09-03)
+------------------
 * Enable Python bindings (`#22 <https://github.com/gazebo-release/gz_msgs_vendor/issues/22>`_)
   * Enable Python bindings
   * Rerun gz_vendor
