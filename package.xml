@@ -12,12 +12,12 @@
   -->
   <version>0.3.4</version>
   <description>
-    Vendor package for: gz-msgs 12.0.2
+    Vendor package for: gz-msgs 12.1.0
 
     Gazebo Messages: Protobuf messages and functions for robot applications
   </description>
   <maintainer email="addisuzt@intrinsic.ai">Addisu Z. Taddese</maintainer>
-  <license>Apache License 2.0</license>
+  <license>Apache-2.0</license>
   <url type="website">https://github.com/gazebosim/gz-msgs</url>
 
   <buildtool_depend>ament_cmake_core</buildtool_depend>
